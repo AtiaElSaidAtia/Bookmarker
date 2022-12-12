@@ -1,0 +1,45 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.coloring
+{
+    color: #AAA;
+    border-bottom: 1px solid #999;
+}
+.text
+{
+    background-color: #202020;
+}
+.btn-primary
+{
+    background-color:#1167c4 ;
+}
+.bord
+{
+    border-bottom: 1px solid #999;
+} 
+.width
+{
+    width: 15%;
+    margin-right: 1%;
+}
+.color{
+        background-color: #252525;
+        color: white;
+}
+.back
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;
+}
+.bordbot
+{
+    border-bottom: 7px solid white;
+}
